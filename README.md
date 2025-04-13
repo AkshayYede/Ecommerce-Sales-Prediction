@@ -9,7 +9,8 @@ This project is a simple web application that predicts a user's **yearly amount 
 The model is built using **Ridge Regression** and deployed using **Streamlit**.
 
 ---
-
+👉 [Checkout Here](https://ecommerce-sales-prediction-x9wevtdotmy4vhosuky2af.streamlit.app/)
+---
 ## 🚀 Features
 
 - Predicts customer spending based on app behavior and membership.
